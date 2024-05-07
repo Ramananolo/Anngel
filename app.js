@@ -6,8 +6,9 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I love you more (my Anngel😂) ndre da aninao TAY 💔!";
-  gif.src =
-    "";
+  return(
+    <div><div class="tenor-gif-embed" data-postid="21951867" data-share-method="host" data-aspect-ratio="0.778125" data-width="100%"><a href="https://tenor.com/view/diamondsonshine-onmyhotline-doja-cat-doja-gif-21951867">Diamondsonshine Onmyhotline GIF</a>from <a href="https://tenor.com/search/diamondsonshine-gifs">Diamondsonshine GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>  
+  )
 });
 
 noBtn.addEventListener("mouseover", () => {
