@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you more my happinness 💘 (my Anngel😂) !";
+  question.innerHTML = "I love you more my💘 (my Anngel😂) ndre da TAY!";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://tenor.com/fr/view/bh187-family-guy-peter-griffin-suss-gif-21485181";
 });
 
 noBtn.addEventListener("mouseover", () => {
