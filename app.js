@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you more (my Angel) ndre da aninao TAY!";
+  question.innerHTML = "I love you more ndre da aninao Tay 💘!";
   gif.src =
-    "https://tenor.com/fr/view/kisses-gif-21901121";
+    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
